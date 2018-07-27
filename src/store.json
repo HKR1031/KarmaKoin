@@ -1,0 +1,20 @@
+[
+	{
+		"id": 100,
+		"title": "Amazon Gift Card",
+		"description": "Amazon Gift Card",
+		"price": 500
+	},
+	{
+		"id": 101,
+		"title": "Starbucks",
+		"description": "Starbucks Gift Card",
+		"price": 700
+	},
+	{
+		"id": 102,
+		"title": "Day Off",
+		"description": "Get a day off",
+		"price": 5000
+	}
+]
