@@ -1,29 +1,18 @@
 {
-  "name": "karma",
+  "name": "pet-shop",
   "version": "1.0.0",
-  "description": "## Introduction",
-  "main": "index.js",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ."
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com/HKR1031/KarmaKoin.git"
-  },
-  "author": "Rashan Jibowu",
-  "contributors": [
-    {
-      "name": "Hiten"
-    },
-    {
-      "name": "Kishore"
-    }
-  ],
+  "author": "",
   "license": "ISC",
-  "dependencies": {
-    "dotenv": "^6.0.0",
-    "express": "^4.16.3",
-    "mongodb": "^3.0.10"
+  "devDependencies": {
+    "lite-server": "^2.3.0"
   }
 }
